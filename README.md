@@ -1,1 +1,1 @@
-# Interactively visualizing results from HTS in KNIME
+# Interactively visualizing results of HTS in KNIME
