@@ -31,7 +31,7 @@ KNIME is an open-source data analytics platform that allows users to drag and dr
 2. User-friendly and intuitive interface
 	- Users can upload any data and customize analysis through a web interface and visualization is output in an interactive manner that is easy to get insights from
 
-*Workflow can be downloaded from ./solution/viz_hts.kwf but KNIME needs to be installed in order to run the workflow*
+**Workflow can be downloaded from ./solution/viz_hts (the entire viz_hts folder). KNIME needs to be installed in order to run the workflow**
 
 ![Deploy](./images/deploy.png)
 
