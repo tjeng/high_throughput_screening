@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config xmlns="http://www.knime.org/2008/09/XMLConfig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.knime.org/2008/09/XMLConfig http://www.knime.org/XMLConfig_2008_09.xsd" key="viewRepresentation">
+<entry key="generateImage" type="xboolean" value="false"/>
+<entry key="imageWidth" type="xint" value="800"/>
+<entry key="imageHeight" type="xint" value="600"/>
+<entry key="resizeToWindow" type="xboolean" value="true"/>
+<entry key="enableClusterColor" type="xboolean" value="true"/>
+<entry key="enableClusterLabels" type="xboolean" value="true"/>
+<entry key="enableViewEdit" type="xboolean" value="true"/>
+<entry key="enableTitleEdit" type="xboolean" value="true"/>
+<entry key="displayFullscreenButton" type="xboolean" value="true"/>
+<entry key="enableNumClusterEdit" type="xboolean" value="true"/>
+<entry key="enableSelection" type="xboolean" value="true"/>
+<entry key="showClearSelectionButton" type="xboolean" value="true"/>
+<entry key="showSelectedOnlyToggle" type="xboolean" value="true"/>
+<entry key="showWarningsInView" type="xboolean" value="true"/>
+<entry key="enableZoomAndPanning" type="xboolean" value="true"/>
+<entry key="showZoomResetButton" type="xboolean" value="false"/>
+<entry key="enableLogScaleToggle" type="xboolean" value="true"/>
+<entry key="enableChangeOrientation" type="xboolean" value="true"/>
+<config key="colorPalette">
+<entry key="array-size" type="xint" value="12"/>
+<entry key="0" type="xstring" value="#33a02c"/>
+<entry key="1" type="xstring" value="#e31a1c"/>
+<entry key="2" type="xstring" value="#b15928"/>
+<entry key="3" type="xstring" value="#6a3d9a"/>
+<entry key="4" type="xstring" value="#1f78b4"/>
+<entry key="5" type="xstring" value="#ff7f00"/>
+<entry key="6" type="xstring" value="#b2df8a"/>
+<entry key="7" type="xstring" value="#fdbf6f"/>
+<entry key="8" type="xstring" value="#fb9a99"/>
+<entry key="9" type="xstring" value="#cab2d6"/>
+<entry key="10" type="xstring" value="#a6cee3"/>
+<entry key="11" type="xstring" value="#ffff99"/>
+</config>
+<entry key="showThresholdBar" type="xboolean" value="true"/>
+<entry key="enableThresholdModification" type="xboolean" value="true"/>
+<entry key="enableAxisLabelEdit" type="xboolean" value="true"/>
+<entry key="dataTableID" type="xstring" value="15d4efac-15cd-4bfc-8688-3f5e9a696426"/>
+<config key="filterIds">
+<entry key="array-size" type="xint" value="8"/>
+<entry key="0" type="xstring" isnull="true" value=""/>
+<entry key="1" type="xstring" isnull="true" value=""/>
+<entry key="2" type="xstring" isnull="true" value=""/>
+<entry key="3" type="xstring" isnull="true" value=""/>
+<entry key="4" type="xstring" isnull="true" value=""/>
+<entry key="5" type="xstring" isnull="true" value=""/>
+<entry key="6" type="xstring" isnull="true" value=""/>
+<entry key="7" type="xstring" isnull="true" value=""/>
+</config>
+<entry key="runningInView" type="xboolean" value="true"/>
+</config>

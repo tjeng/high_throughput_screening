@@ -1,0 +1,31 @@
+
+{
+    "type": "object",
+    "properties": {
+        "column-filter-87:86": {
+            "type": "object",
+            "properties": {
+                "columns": {
+                    "type": "array",
+                    "items": {
+                        "type": "string",
+                        "default": "compound_name"
+                    }
+                }
+            },
+            "description": "Select data to cluster",
+            "example": {
+                "columns": [
+                    "compound_name",
+                    "ABL1-nonphosphorylated",
+                    "ABL1-phosphorylated",
+                    "EGFR",
+                    "FGFR1",
+                    "FGFR2",
+                    "FGFR3",
+                    "KIT"
+                ]
+            }
+        }
+    }
+}

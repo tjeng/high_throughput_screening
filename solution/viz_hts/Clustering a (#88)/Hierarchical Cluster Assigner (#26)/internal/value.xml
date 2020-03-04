@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config xmlns="http://www.knime.org/2008/09/XMLConfig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.knime.org/2008/09/XMLConfig http://www.knime.org/XMLConfig_2008_09.xsd" key="viewValue">
+<entry key="title" type="xstring" value=""/>
+<entry key="subtitle" type="xstring" value=""/>
+<entry key="numClusters" type="xint" value="6"/>
+<entry key="threshold" type="xdouble" value="113.7750015258789"/>
+<config key="selection"/>
+<config key="clusterLabels">
+<entry key="array-size" type="xint" value="17"/>
+<entry key="0" type="xstring" value=""/>
+<entry key="1" type="xstring" value=""/>
+<entry key="2" type="xstring" value=""/>
+<entry key="3" type="xstring" value=""/>
+<entry key="4" type="xstring" value=""/>
+<entry key="5" type="xstring" value=""/>
+<entry key="6" type="xstring" value=""/>
+<entry key="7" type="xstring" value=""/>
+<entry key="8" type="xstring" value=""/>
+<entry key="9" type="xstring" value=""/>
+<entry key="10" type="xstring" value=""/>
+<entry key="11" type="xstring" value=""/>
+<entry key="12" type="xstring" value=""/>
+<entry key="13" type="xstring" value=""/>
+<entry key="14" type="xstring" value=""/>
+<entry key="15" type="xstring" value=""/>
+<entry key="16" type="xstring" value=""/>
+</config>
+<entry key="xMin" type="xdouble" value="0.0"/>
+<entry key="xMax" type="xdouble" value="0.0"/>
+<entry key="yMin" type="xdouble" value="1.0"/>
+<entry key="useLogScale" type="xboolean" value="false"/>
+<entry key="orientation" type="xstring" value="vertical"/>
+<entry key="publishSelectionEvents" type="xboolean" value="true"/>
+<entry key="subscribeSelectionEvents" type="xboolean" value="true"/>
+<entry key="showSelectedOnly" type="xboolean" value="false"/>
+<entry key="subscribeFilterEvents" type="xboolean" value="true"/>
+<entry key="xAxisLabel" type="xstring" value="Row Key"/>
+<entry key="yAxisLabel" type="xstring" value="Cluster Distance"/>
+</config>
