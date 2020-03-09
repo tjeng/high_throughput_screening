@@ -35,11 +35,11 @@ KNIME is an open-source data analytics platform that allows users to drag and dr
 
 ![Deploy](./images/deploy.png)
 
-![Output](./images/output1.png)
+![Output](./images/output1.PNG)
 
-![Output2](./images/output2.png)
+![Output2](./images/output2.PNG)
 
-![Output3](./images/output3.png)
+![Output3](./images/output3.PNG)
 
 In the dendrogram, compounds are divided into 6 clusters and assays are divided into 4 clusters. Compounds and assays in the heatmap follow the order of the dendrogram, and the cluster number is assigned after the underscore. In the heatmap, values above 35 are indicated white because compounds do not strongly inhibit kinase function, and are termed inactive. Color ranges from black to light grey, the darker the color, the stronger the compound inhibits kinase function, and are termed more active. Compounds that are active against few kinases are considered more selective (e.g., ZG-10 & QL-XI-92), while those that are active against a lot of kinases (e.g., KIN001-220) are considered less selective. The goal is to identify compounds that are more selective so that we can better design drugs that target specific kinases.
 
